@@ -1,16 +1,22 @@
-## Hi there 👋
+ Christian Thomas,
+Software Engineer,
+Hi! My name is Christian, and I'm passionate about web and software development. I enjoy building full-stack applications, solving complex problems, and bringing ideas to life through code.
 
-<!--
-**ChristianMThomas/ChristianMThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+ Languages and Tools,
+!HTML5
+!CSS3
+!JavaScript
+!React
+!Node.js
+!MongoDB
+!Git
+...and more
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+ Pinned Projects,
+Movie Summary App – Movie database using React & API.,
+NFT Marketplace – NFT marketplace built with Web3.,
+Social Media App – Full-stack app using MERN.
