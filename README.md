@@ -1,6 +1,7 @@
- Christian Thomas,
+Christian Thomas,
 Software Engineer,
-Hi! My name is Christian, and I'm passionate about web and software development. I enjoy building full-stack applications, solving complex problems, and bringing ideas to life through code.
+Hi! My name is Christian, and I'm passionate about software development. I enjoy building full-stack applications, solving complex problems, and bringing ideas to life through code.
+Focused on crafting websites and web applications and turning imagination into deployable experiences.
 
 ---
 
@@ -10,13 +11,15 @@ Hi! My name is Christian, and I'm passionate about web and software development.
 !JavaScript
 !React
 !Node.js
-!MongoDB
+!Java
+!Springboot
 !Git
+!Supabase
 ...and more
 
 ---
 
  Pinned Projects,
-Movie Summary App – Movie database using React & API.,
-NFT Marketplace – NFT marketplace built with Web3.,
-Social Media App – Full-stack app using MERN.
+MovieApp – Movie database using React & API.,
+MafiaMadness - Web game based on the party game mafia using Reactjs and Nodejs.
+
