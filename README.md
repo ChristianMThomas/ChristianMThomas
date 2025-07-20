@@ -1,25 +1,71 @@
-Christian Thomas,
-Software Engineer,
-Hi! My name is Christian, and I'm passionate about software development. I enjoy building full-stack applications, solving complex problems, and bringing ideas to life through code.
-Focused on crafting websites and web applications and turning imagination into deployable experiences.
+<h1 align="center">👋 Hi, I'm Christian Thomas</h1>
+<h3 align="center">💻 Software Engineer | 🎯 Full-Stack Developer | 🌐 Web App Builder</h3>
+
+<p align="center">
+  Turning imagination into scalable, deployable solutions across the full stack.
+</p>
 
 ---
 
- Languages and Tools,
-!HTML5
-!CSS3
-!JavaScript
-!React
-!Node.js
-!Java
-!Springboot
-!Git
-!Supabase
-...and more
+### 🚀 About Me
+
+I'm passionate about designing intuitive web applications and solving tough technical puzzles. Whether it's crafting pixel-perfect interfaces or implementing secure backend flows, I thrive on bringing ideas to life through clean, efficient code.
 
 ---
 
- Pinned Projects,
-MovieApp – Movie database using React & API.,
-MafiaMadness - Web game based on the party game mafia using Reactjs and Nodejs.
+### 🧰 Languages & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Experienced-orange" />
+  <img src="https://img.shields.io/badge/CSS3-Styled-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-Dynamic-yellow" />
+  <img src="https://img.shields.io/badge/React-Interactive-blueviolet" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green" />
+  <img src="https://img.shields.io/badge/Java-OOP-red" />
+  <img src="https://img.shields.io/badge/SpringBoot-Secure-darkgreen" />
+  <img src="https://img.shields.io/badge/Git-Version%20Control-black" />
+  <img src="https://img.shields.io/badge/Supabase-Realtime-teal" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+
+- 🎬 **MovieApp**  
+  A sleek movie database built with React and third-party APIs. Browse, search, and explore your favorite films.
+
+- 🕵️‍♂️ **Mafia Madness**  
+  A web-based party game inspired by Mafia. Real-time multiplayer built using React and Node.js—strategy meets storytelling.
+
+---
+
+### 🌱 Currently Exploring
+
+- 📦 Supabase for backend as a service (BaaS)
+- 🔐 Spring Security & JWT authentication
+- 🎨 UI/UX animations in React
+- 📊 Deployment workflows & CI/CD integration
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+Got a cool idea, a dev challenge, or just want to geek out about tech?  
+I'm always up for collaborating and learning from others.
+
+📫 [Reach me via GitHub](https://github.com/your-username)
+
+---
+
+> “Good software is crafted, not just coded.”
+
 
