@@ -48,21 +48,13 @@ I'm passionate about designing intuitive web applications and solving tough tech
 
 ---
 
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=react" />
-</p>
-
----
 
 ### 🤝 Let’s Connect
 
 Got a cool idea, a dev challenge, or just want to geek out about tech?  
 I'm always up for collaborating and learning from others.
 
-📫 [Reach me via GitHub](https://github.com/your-username)
+📫 [Reach me via LinkedIn](www.linkedin.com/in/christian-thomas-481b53330)
 
 ---
 
