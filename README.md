@@ -31,7 +31,7 @@ I'm passionate about designing intuitive web applications and solving tough tech
 
 ### 📌 Pinned Projects
 
-- 🎬 **MovieApp**  
+- 🎬 *SeatFlix**  
   A sleek movie database built with React and third-party APIs. Browse, search, and explore your favorite films.
 
 - 🕵️‍♂️ **Mafia Madness**  
@@ -54,7 +54,7 @@ I'm passionate about designing intuitive web applications and solving tough tech
 Got a cool idea, a dev challenge, or just want to geek out about tech?  
 I'm always up for collaborating and learning from others.
 
-📫 [Reach me via LinkedIn](www.linkedin.com/in/christian-thomas-481b53330)
+📫 [Reach me via LinkedIn](https://www.linkedin.com/in/christian-thomas-481b53330/)
 
 ---
 
